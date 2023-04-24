@@ -1,3 +1,4 @@
+console.log("czesc")
 let button = document.querySelector(".button");
 let mainElement = document.querySelector(".main");
 let themeName = document.querySelector(".button__themeName")
