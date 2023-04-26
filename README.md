@@ -4,7 +4,7 @@
 ## Pierwsze spotkanie z HTML, CSS, JS, GIT
 
 ## demo
-https://andriistafiniak.github.io/homePage
+https://andriistafiniak.github.io/homePage/
 
 ## Opis:
 
