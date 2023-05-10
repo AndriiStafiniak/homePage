@@ -57,7 +57,7 @@ html {
 }
 
 .table__row:hover {
-   background-color: rgba(106, 212, 119, 0.783);
+   background-color: hsla(244, 77%, 90%, 0.783);
 }
 
 .responTable {

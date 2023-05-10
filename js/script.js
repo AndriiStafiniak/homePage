@@ -1,9 +1,17 @@
-console.log("czesc")
-let button = document.querySelector(".button");
-let mainElement = document.querySelector(".main");
-let themeName = document.querySelector(".button__themeName")
-
-button.addEventListener("click", () => {
-   mainElement.classList.toggle("mainChangeBgCol");
-   themeName.innerText = mainElement.classList.contains("mainChangeBgCol") ? "jasny" : "ciemny";
-});
+{
+   const welcome = () => {
+      console.log("Witam wszystkich developerów");
+   };
+   const toggleBackground = () => {
+      const mainElement = document.querySelector(".main");
+      const themeName = document.querySelector(".button__themeName")
+      mainElement.classList.toggle("mainChangeBgCol");
+      themeName.innerText = mainElement.classList.contains("mainChangeBgCol") ? "jasny" : "ciemny";
+   };
+   const init = () => {
+      const button = document.querySelector(".button");
+      button.addEventListener("click", toggleBackground);
+      welcome();
+   };
+   init();
+};
