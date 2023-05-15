@@ -1,16 +1,20 @@
-# Moja pierwsza strona internetowa
-![obrazek](https://bi.im-g.pl/im/83/0d/1b/z28365443IE.jpg)
 
-## Pierwsze spotkanie z HTML, CSS, JS, GIT
-
-## demo
+![obrazek](images/share.png)
+# Demo
+## My first coding course website:
 https://andriistafiniak.github.io/homePage/
 
-## Opis:
+## Technologies used:
+- HTML
+- CSS
+- JS
+- BEM convention
 
-W tym projekcie uczyłem się jak używać konwencji BEM, jak dodać tabelę i stylować za pomocą CSS. Nauczyłem się jak korzystać z potrójnego operatora w JS.
+## Description:
+This is my first project. It's not perfect at the moment but I'll improve it. I promise 😃
 
-
+## What interesting:
+If you click on the button <<Włącz jasny/ciemny motyw>> you will change the background.
 
 
 
