@@ -1,0 +1,10 @@
+.nav__listItem {
+   margin: 7px 0;
+   list-style-type: none;
+}
+
+.nav__link {
+   font-size: 18px;
+   text-decoration: none;
+   color: rgb(55, 13, 154);
+}

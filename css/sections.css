@@ -1,0 +1,26 @@
+.sectionAbout {
+   line-height: 1.3;
+   font-size: 18px;
+   padding: 10px 20px;
+}
+
+.sectionAdditional__link {
+   display: block;
+   text-decoration: none;
+   color: hsla(255, 67%, 50%, 0.918);
+   margin-top: 8px;
+   background-color: #f1f1f2;
+   text-align: center;
+   list-style-type: square;
+   font-size: 30px;
+}
+
+.sectionAdditional__link:hover {
+   color: hsla(255, 67%, 30%, 0.918);
+
+}
+
+.sectionAdditional__photo {
+   max-width: 320px;
+   margin: 100px auto;
+}

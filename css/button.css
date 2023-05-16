@@ -1,0 +1,11 @@
+.button {
+   display: block;
+   margin: 50px auto;
+   max-width: 100px;
+   font-size: 18px;
+   background-color: crimson;
+   color: antiquewhite;
+   border-radius: 20%;
+   box-shadow: 3px 3px 3px grey;
+   cursor: pointer;
+}
